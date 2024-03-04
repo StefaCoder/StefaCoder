@@ -2,9 +2,9 @@
 
 🤔 I’m interested in 💻 Programming 🎨 Web Design  📈 Finance 🏡 Real Estate ⚽ Sports and 🌏 Travel
 
-🌵 I’ve been learning Java, JavaScript, Vue.js, SQL, PostgreSQL, HTML, and CSS. Next goals...Python and React 
+🌵 I’ve been working as a Full Stack Software Developer using Java, JavaScript (React.js - Vue.js), SQL, HTML, and CSS. Although I’ve been interested in building engaging and user-centric interfaces leading me to specialize in front-end development, I enjoy working on the orchestration of back-end logic and operations as well. 
 
-👀 I’m looking to collaborate on interesting projects. I believe that teamwork is key to achieve goals 🎯!
+👀 I’m looking forward to collaborating on interesting projects and I believe that teamwork is key to achieving goals 🎯!
 
 📫 You can reach me via
 LinkedIn 🌐 https://www.linkedin.com/in/bernardinistefano/
