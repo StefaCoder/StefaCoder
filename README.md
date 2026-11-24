@@ -1,8 +1,8 @@
 👋 Hi, I’m Stefano!
 
-🤔 I’m interested in 💻 Programming 🎨 Web Design  📈 Finance 🏡 Real Estate ⚽ Sports and 🌏 Travel
+🤔 I’m interested in 💻 Programming, 🎨 Web Design,  📈 Finance, 🏡 Real Estate, ⚽ Soccer, and 🌏 Travel.
 
-🌵 I’ve been working as a Full Stack Software Developer using Java, JavaScript (React.js - Vue.js), SQL, HTML, and CSS. Although I’ve been interested in building engaging and user-centric interfaces leading me to specialize in front-end development, I enjoy working on the orchestration of back-end logic and operations as well. 
+🌵 I'm a Full-Stack Software Engineer transitioning into AI Engineering, combining a proven foundation in scalable Java/Spring Boot backends and modern JavaScript frontends with hands-on experience building Python-based LLM applications, Retrieval-Augmented Generation (RAG) pipelines, and autonomous AI Agents. Currently focused on developing RAG systems powered by OpenAI APIs and expanding into multi-step agentic workflows. 
 
 <!---
 StefaCoder/StefaCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
